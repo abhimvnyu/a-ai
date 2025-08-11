@@ -8,7 +8,7 @@
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin-link](https://www.linkedin.com/in/abhimanyu-rv-6143a32a0/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin-link](www.linkedin.com/in/abhimanyu-rv-6143a32a0)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](abhimanyurv09@gmail.com)  
 
 ---
